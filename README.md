@@ -1,6 +1,6 @@
 ### Hi, I'm Soham👋
 
-<!--
+
 **Soham513/Soham513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
@@ -10,4 +10,4 @@
 - 🔭 I’m currently working on machine-learning projects for image classification 
 - 👯 I’m up to collaborating on good projects 
 - 📫 How to reach me: dnyanoham@gmail.com
--->
+
