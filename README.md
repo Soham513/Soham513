@@ -5,7 +5,7 @@
 
 - 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
 - 👩🏻‍🎓 Studied Computer Science and Engineering at the Dy Patil International University 
-- 🌷 #learninginpublic in my 
+- 🌷 #learninginpublic 
 - 🌱 I’m currently learning Full-stack development
 - 🔭 I’m currently working on machine-learning projects for image classification 
 - 👯 I’m up to collaborating on good projects 
