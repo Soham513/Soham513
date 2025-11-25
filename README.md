@@ -1,8 +1,5 @@
 ### Hi, I'm Soham👋
 
-
-**Soham513/Soham513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
 - 👩🏻‍🎓 Studied Computer Science and Engineering at the Dy Patil International University 
 - 🌷 #learninginpublic 
